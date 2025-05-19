@@ -18,6 +18,9 @@
 		"main": [
 			"geoves.resodded.GrassResodded"
 		],
+		"client": [
+			"geoves.resodded.GrassResoddedClient"
+		],
 		"fabric-datagen": [
 			"geoves.resodded.GrassResoddedDataGenerator"
 		]

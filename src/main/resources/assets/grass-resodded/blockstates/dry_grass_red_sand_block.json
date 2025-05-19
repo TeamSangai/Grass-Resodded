@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "grass-resodded:block/dry_grass_red_sand_block"
+      },
+      {
+        "model": "grass-resodded:block/dry_grass_red_sand_block",
+        "y": 90
+      },
+      {
+        "model": "grass-resodded:block/dry_grass_red_sand_block",
+        "y": 180
+      },
+      {
+        "model": "grass-resodded:block/dry_grass_red_sand_block",
+        "y": 270
+      }
+    ]
+  }
+}

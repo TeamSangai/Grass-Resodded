@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/dirt",
+    "side": "grass-resodded:block/dry_grass_dirt",
+    "top": "grass-resodded:block/dry_grass_block_top"
+  }
+}

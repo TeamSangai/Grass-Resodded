@@ -1,3 +1,6 @@
 {
-  "block.grass-resodded.dry_grass_and_dirt_block": "Dirty Dry Grass"
+  "block.grass-resodded.dry_grass_dirt_block": "Dirty Dry Grass Block",
+  "block.grass-resodded.dry_grass_sand_block": "Dry Grass Block",
+  "block.grass-resodded.dry_grass_red_sand_block": "Red Sandy Dry Grass Block",
+  "block.grass-resodded.dry_grass_mud_block": "Muddy Dry Grass Block"
 }
