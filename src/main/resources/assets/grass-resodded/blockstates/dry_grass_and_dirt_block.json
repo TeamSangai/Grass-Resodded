@@ -2,18 +2,18 @@
   "variants": {
     "": [
       {
-        "model": "grass-resodded:dry_grass_and_dirt_block"
+        "model": "grass-resodded:block/dry_grass_and_dirt_block"
       },
       {
-        "model": "grass-resodded:dry_grass_and_dirt_block",
+        "model": "grass-resodded:block/dry_grass_and_dirt_block",
         "y": 90
       },
       {
-        "model": "grass-resodded:dry_grass_and_dirt_block",
+        "model": "grass-resodded:block/dry_grass_and_dirt_block",
         "y": 180
       },
       {
-        "model": "grass-resodded:dry_grass_and_dirt_block",
+        "model": "grass-resodded:block/dry_grass_and_dirt_block",
         "y": 270
       }
     ]
