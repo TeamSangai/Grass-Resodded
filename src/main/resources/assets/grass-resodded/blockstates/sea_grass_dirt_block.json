@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "grass-resodded:block/sea_grass_dirt_block"
+      },
+      {
+        "model": "grass-resodded:block/sea_grass_dirt_block",
+        "y": 90
+      },
+      {
+        "model": "grass-resodded:block/sea_grass_dirt_block",
+        "y": 180
+      },
+      {
+        "model": "grass-resodded:block/sea_grass_dirt_block",
+        "y": 270
+      }
+    ],
+    "snowy=true": {
+      "model": "grass-resodded:block/sea_grass_mud_snow"
+    }
+  }
+}

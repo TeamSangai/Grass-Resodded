@@ -2,5 +2,16 @@
   "block.grass-resodded.dry_grass_dirt_block": "Dirty Dry Grass Block",
   "block.grass-resodded.dry_grass_sand_block": "Dry Grass Block",
   "block.grass-resodded.dry_grass_red_sand_block": "Red Sandy Dry Grass Block",
-  "block.grass-resodded.dry_grass_mud_block": "Muddy Dry Grass Block"
+  "block.grass-resodded.dry_grass_mud_block": "Muddy Dry Grass Block",
+  "block.grass-resodded.grass_mud_block": "Muddy Grass Block",
+  "block.grass-resodded.sea_grass_mud_block": "Muddy Sea Grass Block","block.grass-resodded.sea_grass_dirt_block": "Sea Grass Block",
+  "block.grass-resodded.sea_grass_sand_block": "Sandy Sea Grass Block", "block.grass-resodded.sea_grass_stone_block": "Sea Grassy Stone Block",
+  "block.grass-resodded.grass_stone_block": "Grassy Stone Block",
+  "block.grass-resodded.dry_grass_stone_block": "Dry Grassy Stone Block",
+  "block.grass-resodded.lavender": "Lavender",
+  "block.grass-resodded.yarrow": "Yarrow", "block.grass-resodded.secenio": "Woolly Secenio",
+  "block.grass-resodded.kniphofia": "Kniphofia","block.grass-resodded.globe_thistle": "Globe Thistle",
+
+  "item.grass-resodded.grass_sod": "Grass Sod Roll", "item.grass-resodded.dry_grass_sod": "Dry Grass Sod Roll",
+  "item.grass-resodded.sea_grass_sod": "Sea Grass Sod Roll"
 }

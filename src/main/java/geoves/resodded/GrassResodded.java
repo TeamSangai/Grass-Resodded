@@ -1,6 +1,8 @@
 package geoves.resodded;
 
 import geoves.resodded.block.ModBlocks;
+import geoves.resodded.item.ResoddedItems;
+import geoves.resodded.world.gen.ModWorldGenerator;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -16,8 +18,9 @@ public class GrassResodded implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ResoddedItems.registerResoddedItems();
 		ModBlocks.registerModBlocks();
-
+		ModWorldGenerator.generateModWorldGen();
 		LOGGER.info("LOADS OF GRASSES!");
 	}
 }

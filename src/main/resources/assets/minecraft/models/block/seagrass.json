@@ -1,0 +1,6 @@
+{
+  "parent": "grass-resodded:block/seagrass_template_tinted",
+  "textures": {
+    "texture": "grass-resodded:block/sea_grass_foliage"
+  }
+}

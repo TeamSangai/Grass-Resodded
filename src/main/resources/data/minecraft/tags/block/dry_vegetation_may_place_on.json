@@ -1,5 +1,7 @@
 {
   "values": [{
     "id": "#grass-resodded:resodded_dry_grasses"
+  },{
+    "id": "#grass-resodded:resodded_grasses"
   }]
 }
